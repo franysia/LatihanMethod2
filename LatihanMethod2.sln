@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanMethod2", "LatihanMethod2\LatihanMethod2.csproj", "{E5A0503B-1D75-40BF-A69B-02429C8A7178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A0503B-1D75-40BF-A69B-02429C8A7178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A0503B-1D75-40BF-A69B-02429C8A7178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A0503B-1D75-40BF-A69B-02429C8A7178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A0503B-1D75-40BF-A69B-02429C8A7178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AA17CDD-7F34-4732-A188-2B71C03C30E5}
+	EndGlobalSection
+EndGlobal
